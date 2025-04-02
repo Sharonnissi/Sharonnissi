@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Sharon!<br>💡 Aspiring Business Analyst | Cloud & Cybersecurity<br><br>🌱 About Me<br>🔹 I'm currently working on: Enhancing my Python skills and building projects to showcase on GitHub. Also, actively applying for Business Analyst and Cloud/Cybersecurity roles.<br>📚 I'm currently learning: Python, and Bash.<br>💬 Ask me about: Business analysis, cloud computing, cybersecurity concepts, and tech support.<br>🎉 Fun fact: I love breaking down complex tech topics into real-world examples to make learning easier!<br><br>
+👋 Hi, I'm Sharon!<br>💡 Aspiring Business Analyst | Cloud & Cybersecurity<br><br>🌱 About Me<br>🔹 I'm currently working on: Enhancing my Python skills and building projects to showcase on GitHub. Also, actively applying for Business Analyst and Cloud/Cybersecurity roles.<br>📚 I'm currently learning: Python, Business Analysis, and Bash.<br>💬 Ask me about: Business analysis, cloud computing, cybersecurity concepts, and tech support.<br>🎉 Fun fact: I love breaking down complex tech topics into real-world examples to make learning easier!<br><br>
 
 
 ## 🌐 Socials:
